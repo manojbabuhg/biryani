@@ -1,0 +1,326 @@
+{
+    "biryanis":[
+       {
+          "id":0,
+          "name":"Ambur Star Briyani, BTM",
+          "highlights":"Varieties of Biryani",
+          "mustHave":[
+             "Chicken Briyani",
+             "Chicken 65 Briyani",
+             "Prawn Briyani"
+          ],
+          "costForTwo":"400Rs",
+          "address":[
+             {
+                "addressId":"0",
+                "number":"5",
+                "line1":"Ground Floor, Opposite Forum Mall",
+                "line2":"Bhuvanappa Layout, BTM"
+             }
+          ]
+       },
+       {
+          "id":1,
+          "name":"Paradise, Indiranagar",
+          "highlights":"Home Delivery, Valet Parking Available",
+          "mustHave":[
+             "Hyderabadi Dum Biryani",
+             "Mirch Ka Salan",
+             "Chicken Tikka"
+          ],
+          "costForTwo":"800Rs",
+          "address":[
+             {
+                "addressId":"1",
+                "number":"484",
+                "line1":"Signature Square, CMH Road",
+                "line2":"Indiranagar, Bangalore"
+             }
+          ]
+       },
+       {
+          "id":2,
+          "name":"Gundappa Donne Biryani, St Marks Road",
+          "highlights":"Pocket-friendly restaurant",
+          "mustHave":[
+             "Chilli Chicken",
+             "Chicken Curry",
+             "Mutton Biryani",
+             "Gundappa Donne Biryani"
+          ],
+          "costForTwo":"200Rs",
+          "address":[
+             {
+                "addressId":"2",
+                "number":"13/14",
+                "line1":"St. Marks Road",
+                "line2":"Bangalore"
+             }
+          ]
+       },
+       {
+          "id":3,
+          "name":"Manis Dum Biryani, Jeevan Bhima Nagar",
+          "highlights":"Flavourful Mutton Biryani",
+          "mustHave":[
+             "Mutton Biryani",
+             "Chicken Kebab Biryani",
+             "Fish Biryani"
+          ],
+          "costForTwo":"750Rs",
+          "address":[
+             {
+                "addressId":"3",
+                "number":"474",
+                "line1":"Ground Floor, 10th Main, HAL 3rd Stage",
+                "line2":"Jeevan Bhima Nagar, Bangalore"
+             }
+          ]
+       },
+       {
+          "id":4,
+          "name":"Ammi's Biryani, Indiranagar",
+          "highlights":"Budget Biryani",
+          "mustHave":[
+             "Seekh Kebab",
+             "Hyderabadi Biryani",
+             "Vegetable Biryani",
+             "Chicken Biryani",
+             "Kheer",
+             "Raita",
+             "Egg Biryani"
+          ],
+          "costForTwo":"400Rs",
+          "address":[
+             {
+                "addressId":"4",
+                "number":"29/1",
+                "line1":"2nd Stage, CMH Road",
+                "line2":"Indiranagar, Bangalore"
+             }
+          ]
+       },
+       {
+          "id":5,
+          "name":"Meghana Foods, Indiranagar",
+          "highlights":"Chicken Boneless Biryani, prompt service",
+          "mustHave":[
+             "Tandoori Chicken",
+             "Hyderabadi Biryani",
+             "Chicken Guntur",
+             "Chilli Paneer",
+             "Babycorn Manchurian"
+          ],
+          "costForTwo":"700Rs",
+          "address":[
+             {
+                "addressId":"5",
+                "number":"544",
+                "line1":"First Floor, Near Metro Station",
+                "line2":"CMH Road, Indiranagar, Bangalore"
+             }
+          ]
+       },
+       {
+          "id":6,
+          "name":"Samarkand, Shivajinagar Bangalore",
+          "highlights":"Known For Traditional Dum style Biriyani",
+          "mustHave":[
+             "Hyderabadi Biryani",
+             "Firni",
+             "Kulfi",
+             "Mutton Biryani",
+             "Lassi",
+             "Gosht Dum Biryani",
+             "Baklava"
+          ],
+          "costForTwo":"1600Rs",
+          "address":[
+             {
+                "addressId":"6",
+                "number":"1",
+                "line1":"Gem Plaza, Infantry Road",
+                "line2":"Shivajinagar, Bangalore"
+             }
+          ]
+       },
+       {
+          "id":7,
+          "name":"Ambur Biryani Point, Koramangala",
+          "highlights":"Known For Traditional Dum style Biriyani",
+          "mustHave":[
+             "Ambur Biryani",
+             "Mutton Biryani",
+             "Raita"
+          ],
+          "costForTwo":"250Rs",
+          "address":[
+             {
+                "addressId":"7",
+                "number":"15",
+                "line1":"1st Main, 1st Block, Jakkasandra, 1st Block",
+                "line2":"Koramangala, Bangalore"
+             }
+          ]
+       },
+       {
+          "id":8,
+          "name":"Gramin, Koramangala",
+          "highlights":"Vegetarian Only, Serves Jain Food",
+          "mustHave":[
+             "Paneer Kolapuri",
+             "Dal Afghani",
+             "Buttermilk"
+          ],
+          "costForTwo":"400Rs",
+          "address":[
+             {
+                "addressId":"8",
+                "number":"20",
+                "line1":"20, Ground Floor, Raheja Arcade, 7th Block",
+                "line2":"Koramangala, Bangalore"
+             }
+          ]
+       },
+       {
+          "id":9,
+          "name":"Nagarjuna, Residency Road",
+          "highlights":"Best Hyderabadi Briyani",
+          "mustHave":[
+             "Andhra Biryani",
+             "Chicken Biryani",
+             "Mutton Biryani"
+          ],
+          "costForTwo":"800Rs",
+          "address":[
+             {
+                "addressId":"9",
+                "number":"44/1",
+                "line1":"Residency Road",
+                "line2":"Bangalore"
+             }
+          ]
+       },
+       {
+          "id":10,
+          "name":"Lazeez, Koramangala",
+          "highlights":"Known For Kolkata Style Rolls",
+          "mustHave":[
+             "Rolls",
+             "Biryani",
+             "Firni",
+             "Chicken Roll",
+             "Mutton Pasanda",
+             "Mutton Rezala"
+          ],
+          "costForTwo":"650Rs",
+          "address":[
+             {
+                "addressId":"10",
+                "number":"479",
+                "line1":"KHB Colony, Near Jyothi Nivas College",
+                "line2":"5th Block, Koramangala, Bangalore"
+             }
+          ]
+       },
+       {
+          "id":11,
+          "name":"The Biryani Paradise, Richmond Road",
+          "highlights":"Table reservation is not required",
+          "mustHave":[
+             "Mutton Nalli Fry",
+             "Mutton Chops",
+             "Chicken Biryani"
+          ],
+          "costForTwo":"650Rs",
+          "address":[
+             {
+                "addressId":"11",
+                "number":"4/1",
+                "line1":"7th Main Road, SR Nagar",
+                "line2":"Richmond Road, Bangalore"
+             }
+          ]
+       },
+       {
+          "id":12,
+          "name":"Shivaji Military Hotel, Jayanagar",
+          "highlights":"Breakfast Place",
+          "mustHave":[
+             "Donne Biryani",
+             "Mutton Fry",
+             "Chicken Biryani",
+             "Chicken Leg Fry"
+          ],
+          "costForTwo":"300Rs",
+          "address":[
+             {
+                "addressId":"12",
+                "number":"718",
+                "line1":"1st C Main, 45th Cross, 8th Block",
+                "line2":"Jayanagar, Bangalore"
+             }
+          ]
+       },
+       {
+          "id":13,
+          "name":"Rahhams, Frazer Town",
+          "highlights":"Their variety of biryanis",
+          "mustHave":[
+             "Mutton Chops",
+             "Pahari Chicken",
+             "Chicken Biryani"
+          ],
+          "costForTwo":"550Rs",
+          "address":[
+             {
+                "addressId":"13",
+                "number":"82",
+                "line1":"MM Road, Frazer Town",
+                "line2":"Bangalore"
+             }
+          ]
+       },
+       {
+          "id":14,
+          "name":"Buffet is available",
+          "highlights":"Their variety of biryanis",
+          "mustHave":[
+             "Paneer Tikka",
+             "Kalmi Kebab",
+             "Brain Fry",
+             "Pepper Chicken",
+             "Jumbo Shawarma"
+          ],
+          "costForTwo":"700Rs",
+          "address":[
+             {
+                "addressId":"14",
+                "number":"1",
+                "line1":"Next to BSNL, HAL 2nd Stage, 80 Feet Road",
+                "line2":"Indiranagar, Bangalore"
+             }
+          ]
+       },
+       {
+          "id":15,
+          "name":"BonSouth, Koramangala",
+          "highlights":"Serves Alcohol, Seating Available, Serves Buffet",
+          "mustHave":[
+             "Coconut Payasam",
+             "Seafood Soup",
+             "Fish",
+             "Filter Kaapi"
+          ],
+          "costForTwo":"1500Rs",
+          "address":[
+             {
+                "addressId":"15",
+                "number":"130",
+                "line1":"1st Cross, 5th Block",
+                "line2":"Koramangala, Bangalore"
+             }
+          ]
+       }
+    ]
+ }
